@@ -5,6 +5,18 @@ body {
   font-family: sans-serif;
 }
 
+/* ヘッダーのスタイル */
+.header {
+  background-color: #ff8000; /* オレンジ色 */
+  padding: 20px;
+}
+
+.header h1 {
+  color: #fff;
+  text-align: center;
+}
+
+/* メンテナンス中メッセージのスタイル */
 .maintenance-message {
   position: absolute;
   top: 50%;
@@ -15,16 +27,6 @@ body {
   padding: 20px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-header {
-  background-color: #ff772f;
-  padding: 20px;
-}
-
-header h1 {
-  color: #fff;
-  text-align: center;
 }
 
 h1 {
