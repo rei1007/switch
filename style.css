@@ -8,7 +8,7 @@ body {
 /* ヘッダーのスタイル */
 .header {
   background-color: #ff8000; /* オレンジ色 */
-  padding: 20px;
+  padding: 10px;
 }
 
 .header h1 {
@@ -22,7 +22,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 500px;
+  width: 90%;
   background-color: #fff;
   padding: 20px;
   text-align: center;
@@ -30,7 +30,7 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 
