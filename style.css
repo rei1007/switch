@@ -8,10 +8,11 @@ body {
 /* ヘッダーのスタイル */
 .header {
   background-color: #ff8000; /* オレンジ色 */
+  padding: none;
 }
 
 .header h1 {
-  fot-size: 12px;
+  font-size: 12px;
   color: #fff;
   text-align: center;
 }
